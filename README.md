@@ -1,2 +1,2 @@
 LIVE DEMO 
-website link : http://localhost:5173/login
+website link :  http://localhost:5173
